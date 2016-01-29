@@ -11,3 +11,7 @@ end
 
 #How in the world do I use this Ruby test structure...?
 #Look up how to add TODO's from Dave's page
+#Testing out a  # TODO:  Test some user inputs
+# TODO: try restful urls.
+#Todo:  Feed the damn cat cause she keeps saying "mwrat"
+#todo Use faker to make a test db...will it be isolated from the actual db
